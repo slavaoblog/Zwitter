@@ -1,4 +1,4 @@
-package com.example.switter;
+package com.example.zwitter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
